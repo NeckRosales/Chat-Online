@@ -1,0 +1,38 @@
+.hide{
+    display: none !important
+}
+
+#chat{
+    height: 480px;
+}
+
+.msg-area{
+    border-radius: 4px;
+    padding-bottom: 10px;
+}
+
+.msg{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.salir:hover{
+    cursor: pointer;
+}
+
+.enlace-salir{
+    color:#b01ed4;
+}
+.card-footer {
+    position: fixed;
+    bottom: 0;
+    left: 13.8%;
+
+    width: 50%;
+  }
+  body {
+    background-color: rgb(70, 69, 69);
+  }
+  
+ 
